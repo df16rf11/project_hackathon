@@ -1,0 +1,99 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url();
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url();
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-image: url();
+
+}
+
+header {
+    background: hsl(75, 65%, 53%);
+    color: #540a44;
+    padding: 20px 0;
+    text-align: center;
+    background-image: url(images.jpg);
+    
+}
+
+header h1 {
+    font-size: 2em;
+    
+}
+
+nav ul {
+    list-style: none;
+    text-decoration: #000000;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration:solid;
+}
+
+section {
+    padding: 40px 0;
+    background-image: url();
+}
+
+section h2 {
+    margin-bottom: 20px;
+
+}
+
+section p {
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+button {
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background: #abe076;
+    color: #f2f20b;
+    padding: 20px 0;
+    text-align: center;
+    background-image: url(download\ \(2\).jpg);
+}
+body{
+    background-image: url();
+    background-attachment: scroll;
+}
+#contact{
+    background-color: color(xyx red green blue);
+}
+ul{
+    scrollbar-darkshadow-color: #333;
+}
